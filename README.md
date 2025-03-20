@@ -6,7 +6,7 @@ Um protótipo de um site desenvolvido com ferramentas de now-code low-code,utili
 
 # Plataforma Utilizada:
   • 𝐅𝐞𝐫𝐫𝐚𝐦𝐞𝐧𝐭𝐚: WebNode 
-   • 𝐔𝐬𝐨 𝐝𝐚 𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚: Webnode permitiu criar um site claro, com o que o cliente necessita.
+  • 𝐔𝐬𝐨 𝐝𝐚 𝐩𝐥𝐚𝐭𝐚𝐟𝐨𝐫𝐦𝐚: Webnode permitiu criar um site claro, com o que o cliente necessita.
 
 # Criatividade na solução:
   • 𝐃𝐢𝐟𝐞𝐫𝐞𝐧𝐜𝐢𝐚𝐥 𝐧𝐨𝐬 𝐭𝐫𝐞𝐢𝐧𝐨𝐬: O site propõe os melhores exercícios por cada grupo muscular.
